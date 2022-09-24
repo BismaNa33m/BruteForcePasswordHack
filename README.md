@@ -1,2 +1,4 @@
 # BruteForcePasswordHack
-One of the most important skills used in hacking and penetration testing is the ability to crack user passwords and gain access to system and network resources. One of the most common techniques is known as brute force password cracking.
+One of the most important skills used in hacking and penetration testing is the ability to crack user passwords and gain access to system and network resources. One of the most common techniques is known as brute force password cracking. It takes a large list of possible passwords and systematically attempts to use these passwords to gain entry. Many of the common passwords that are included are passwords that are known to be used by non-IT savvy users such as password1, secretpassword, etc.
+
+To maximize the effectiveness of a brute force password attack, a good hacker will also incorporate elements of social engineering into a custom password list that specifically targets users within an organization. Social media sites such as Facebook have made social engineering extremely easy as many people use loved ones, children’s names, street addresses, and favorite football teams as their passwords.
